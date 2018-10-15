@@ -4,7 +4,8 @@ public class Hello {
     }
 
     public static String helloAge(int age) {
-        System.out.println("branch_2");
+
+        System.out.println("no branch");
         if (age <= 0) {
             throw new IllegalArgumentException();
         }
