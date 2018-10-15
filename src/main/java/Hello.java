@@ -1,4 +1,4 @@
-public class Hellow {
+public class Hello {
     public static String hello() {
         return "Hello";
     }
